@@ -2003,7 +2003,7 @@
 	  "breadcrumb.foreground": "#ffffffcc",
 	  "breadcrumb.focusForeground": "#b6b3ff",
 	  "editorGroupHeader.border": "#000000",
-	  "editorGroupHeader.tabsBackground": "#000000",
+	  "editorGroupHeader.tabsBackground": "#1b1b1b",
 	  "editorGroupHeader.tabsBorder": "#000000",
 	  "tab.activeForeground": "#ffffff",
 	  "tab.border": "#000000",

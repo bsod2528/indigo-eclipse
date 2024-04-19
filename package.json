@@ -4,11 +4,20 @@
   "description": "A `dark-horizon` inspired purple theme.",
   "version": "1.0.0",
   "publisher": "VishalSrivatsavaAV",
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.88.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bsod2528/indigo-eclipse"
+  },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "dark",
+    "purple"
   ],
   "contributes": {
     "themes": [
