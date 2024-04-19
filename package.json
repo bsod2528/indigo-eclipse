@@ -1,0 +1,22 @@
+{
+  "name": "indigo-eclipse",
+  "displayName": "Indigo Eclipse",
+  "description": "A `dark-horizon` inspired purple theme.",
+  "version": "1.0.0",
+  "publisher": "VishalSrivatsavaAV",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Indigo Eclipse",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Indigo Eclipse-color-theme.json"
+      }
+    ]
+  }
+}
