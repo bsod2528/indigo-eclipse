@@ -14,13 +14,13 @@ Indigo Eclipse is a Visual Studio Code theme with a dark and sleek design, featu
 ## Screenshots
 ### Python
 <img 
-    src="/screenshots/python.png" 
+    src="https://raw.githubusercontent.com/bsod2528/indigo-eclipse/master/screenshots/python.png" 
     alt="html_screenshots"
 />
 
 ### HTML
 <img 
-    src="/screenshots/html.png" 
+    src="https://raw.githubusercontent.com/bsod2528/indigo-eclipse/master/screenshots/html.png" 
     alt="html_screenshots"
 />
 
