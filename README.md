@@ -1,7 +1,3 @@
-Got it! Here's the revised README:
-
----
-
 # Indigo Eclipse
 
 Indigo Eclipse is a Visual Studio Code theme with a dark and sleek design, featuring prominent shades of purple that add a touch of elegance to your coding environment.
